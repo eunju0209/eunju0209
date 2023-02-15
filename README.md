@@ -1,4 +1,4 @@
-<div align=center><h2>Front-end web developer</h2></div>
+<div align=center><h1>Front-end web developer</h1></div>
 <div align=center><h3>✨ Tech Stack ✨</h3></div>
 <div align=center>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
